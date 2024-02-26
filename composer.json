@@ -1,0 +1,16 @@
+{
+    "name": "abdel/test_thallaseo",
+    "autoload": {
+        "psr-4": {
+            "Abdel\\TestThallaseo\\": "src/",
+            "Class\\": "class/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdel",
+            "email": "untendavance@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
