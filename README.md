@@ -19,9 +19,9 @@ autoload de compooser
 
 ## Structure du projet
 
--**src/** : Contient le code source de l'application. -**vendor/** : Contient les dépendances installées par Composer.
+-**src/** : Contient le code source de l'application.
 
--**class/** : Classe de l'application -**index.php** : Point d'entrée de l'application.
+-**class/** : Classe de l'application.
 
 -**vendor/** : Contient les dépendances installées par Composer.
 
