@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h1>Simulation de jeu de fourmis</h1>
+    <h1>Simulation de jeu de moustique</h1>
 
     <!--Bouton jourer-->
     <form method="post">
